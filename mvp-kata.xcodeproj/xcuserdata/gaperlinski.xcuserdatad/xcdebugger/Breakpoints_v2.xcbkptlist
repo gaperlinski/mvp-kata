@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mvp-kata/AccountTransferView.swift"
+            timestampString = "511543041.428692"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AccountTransferView"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mvp-kata/AccountTransferView.swift"
+            timestampString = "511542067.818698"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AccountTransferView"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mvp-kata/AccountTransferView.swift"
+            timestampString = "511542070.488761"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AccountTransferView"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mvp-kata/AccountTranferPresenter.swift"
+            timestampString = "511542843.931413"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AccountTransferPresenter"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "mvp-kataTests/PresenterTests.swift"
+            timestampString = "511544575.435177"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "testGivenPresenter_whenTransferAmountIsRequested_thenAllDelegatedProtocolsAreCalled()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mvp_kataTests.PresenterTests.testGivenPresenter_whenTransferAmountIsRequested_thenAllDelegatedProtocolsAreCalled () -&gt; ()"
+                  moduleName = "mvp-kataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaperlinski/Documents/workspace/mvp-kata/mvp-kataTests/PresenterTests.swift"
+                  timestampString = "511544587.089674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mvp_kataTests.PresenterTests.(testGivenPresenter_whenTransferAmountIsRequested_thenAllDelegatedProtocolsAreCalled () -&gt; ()).(implicit closure #5)"
+                  moduleName = "mvp-kataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaperlinski/Documents/workspace/mvp-kata/mvp-kataTests/PresenterTests.swift"
+                  timestampString = "511544587.118862"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "mvp_kataTests.PresenterTests.(testGivenPresenter_whenTransferAmountIsRequested_thenAllDelegatedProtocolsAreCalled () -&gt; ()).(implicit closure #6)"
+                  moduleName = "mvp-kataTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaperlinski/Documents/workspace/mvp-kata/mvp-kataTests/PresenterTests.swift"
+                  timestampString = "511544587.122567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
